@@ -6,27 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://hashemi.github.io/</loc>
+  <loc>https://raminhashemi.github.io/</loc>
   <lastmod>2019-04-23T13:15:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://hashemi.github.io/certificates</loc>
+  <loc>https://raminhashemi.github.io/certificates</loc>
   <lastmod>2019-04-23T13:15:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hashemi.github.io/education</loc>
+  <loc>https://raminhashemi.github.io/education</loc>
   <lastmod>2019-04-23T13:15:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hashemi.github.io/work</loc>
+  <loc>https://raminhashemi.github.io/work</loc>
   <lastmod>2019-04-23T13:15:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://hashemi.github.io/programing</loc>
+  <loc>https://raminhashemi.github.io/programing</loc>
   <lastmod>2019-04-23T13:15:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
